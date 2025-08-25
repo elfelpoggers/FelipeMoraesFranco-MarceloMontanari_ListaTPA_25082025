@@ -1,0 +1,14 @@
+C:\Users\lipem\source\repos\Exercício1\Exercício1\bin\Debug\net8.0\Exercício1.exe
+C:\Users\lipem\source\repos\Exercício1\Exercício1\bin\Debug\net8.0\Exercício1.deps.json
+C:\Users\lipem\source\repos\Exercício1\Exercício1\bin\Debug\net8.0\Exercício1.runtimeconfig.json
+C:\Users\lipem\source\repos\Exercício1\Exercício1\bin\Debug\net8.0\Exercício1.dll
+C:\Users\lipem\source\repos\Exercício1\Exercício1\bin\Debug\net8.0\Exercício1.pdb
+C:\Users\lipem\source\repos\Exercício1\Exercício1\obj\Debug\net8.0\Exercício1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lipem\source\repos\Exercício1\Exercício1\obj\Debug\net8.0\Exercício1.AssemblyInfoInputs.cache
+C:\Users\lipem\source\repos\Exercício1\Exercício1\obj\Debug\net8.0\Exercício1.AssemblyInfo.cs
+C:\Users\lipem\source\repos\Exercício1\Exercício1\obj\Debug\net8.0\Exercício1.csproj.CoreCompileInputs.cache
+C:\Users\lipem\source\repos\Exercício1\Exercício1\obj\Debug\net8.0\Exercício1.dll
+C:\Users\lipem\source\repos\Exercício1\Exercício1\obj\Debug\net8.0\refint\Exercício1.dll
+C:\Users\lipem\source\repos\Exercício1\Exercício1\obj\Debug\net8.0\Exercício1.pdb
+C:\Users\lipem\source\repos\Exercício1\Exercício1\obj\Debug\net8.0\Exercício1.genruntimeconfig.cache
+C:\Users\lipem\source\repos\Exercício1\Exercício1\obj\Debug\net8.0\ref\Exercício1.dll
